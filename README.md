@@ -1,6 +1,6 @@
 # What is it
 
-For now it downloades current listing prices for cryptocurrencies and updated Google Sheets document
+For now it downloades current listing prices for cryptocurrencies from Coinmarketcap API  and updates Google Sheets document
 
 
 ## How to make it run
